@@ -1,5 +1,5 @@
 import React from 'react';
-import Image from "C:/Users/VIDHAN AGARWAL/react/new-start/src/images/reactjs-icon.jpg"
+import Image from "../images/reactjs-icon.jpg";
 export default function Navbar(){
   return(
     <nav className="nav" >
